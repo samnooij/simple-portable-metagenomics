@@ -42,3 +42,5 @@ When all of that is ready and works, maybe I'll add more
 functionality.
 Perhaps another taxonomic profiler, such as 
 [MetaPhlAn 3](https://huttenhower.sph.harvard.edu/metaphlan)?
+Or support for deduplication of reads prior to analysis using the new
+functionality in [fastp](https://github.com/OpenGene/fastp) version 0.22+?
